@@ -15,8 +15,33 @@
                         <!-- ENCABEZADO -->
   <!--========================================================== -->
   <header>
-    <iframe src="../LigaMezcala/Frontend/IF_Frames/Barra_navegacion.html" frameborder="0"></iframe>
-  </header>
+        <nav class="navbar navbar-expand-lg navbar-light p-3" id="menu">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <span class="fs-5 text-primary fw-bold">Liga Mezcala</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#equipo">Equipo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#seccion-contacto">Contactos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#seccion-contacto">Contactos</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
     <!--========================================================== -->
                         <!-- CARRUSEL DE IMAGENES-->
     <!--========================================================== -->
@@ -206,6 +231,7 @@
   </div>
 </footer>
     <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script> 
     <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
     <script src="../LigaMezcala/Frontend/Js/LM.js">
     </script>
