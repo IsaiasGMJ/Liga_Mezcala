@@ -223,7 +223,7 @@
                         <!--FOOTER-->
 <!--========================================================== -->
 <footer class="w-100  d-flex  align-items-center justify-content-center flex-wrap">
-  <p class="fs-5 px-3  pt-3">FIRESOFT X &copy; Todos Los Derechos Reservados 2023</p>
+  <p class="fs-5 px-3  pt-3"><a href="../Firesoft/"><i class="Firesoftlink"></i>FIRESOFT X</a> &copy; Todos Los Derechos Reservados 2023</p>
   <div id="iconos" >
       <a href="https://www.facebook.com/Mauricio Cruz"><i class="bi bi-facebook"></i></a>
       <a href="https://wa.me/3326538297"><i class="bi bi-whatsapp"></i></a>
